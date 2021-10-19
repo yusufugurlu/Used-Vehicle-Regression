@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 17 22:06:01 2021
-
-@author: Pikacu
-"""
 
 from urllib.request import urlopen,Request
 from bs4 import BeautifulSoup
